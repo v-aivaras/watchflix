@@ -1,5 +1,8 @@
 <?php
+require_once("includes/config.php");
 
-echo "Welcome to Watchflix";
-
+if(!isset($_SESSION["userLoggedIn"])) {
+    header("Location: register.php");
+}
+echo $_SESSION["userLoggedIn"];
 ?>
