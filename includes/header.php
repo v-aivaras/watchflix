@@ -15,6 +15,7 @@ $userLoggedIn = $_SESSION["userLoggedIn"];
         <title>Welcome to Watchflix</title>
         <link rel="icon" href="assets/images/favicon.ico">
         <link rel="stylesheet" type="text/css" href="assets/style/style.css" />
+        <script src="https://kit.fontawesome.com/17b288a8e6.js" crossorigin="anonymous"></script>
     </head>
     <body>
         <div class='wrapper'>
