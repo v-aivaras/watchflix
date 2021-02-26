@@ -11,6 +11,12 @@ body {
     box-sizing: border-box;
 }
 
+.wrapper {
+    min-width: 1050px;
+    min-height: 100%;
+    background-color: #141414;
+}
+
 .signInContainer {
     background-color: #efefee;
     height: 100vh;
@@ -145,3 +151,4 @@ width: 100%;
 button i {
     color: inherit;
 }
+
