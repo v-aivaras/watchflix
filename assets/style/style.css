@@ -255,3 +255,7 @@ button i {
 .episodeContainer .videoInfo::-webkit-scrollbar {
     display: none;
 }
+
+.previewCategories.noScroll .category .entities {
+    white-space: normal;
+}
