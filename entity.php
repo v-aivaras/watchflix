@@ -17,4 +17,6 @@ echo $seasonProvider->create($entity);
 $categoryContainers = new CategoryContainers($con, $userLoggedIn);
 echo $categoryContainers->showCategory($entity->getCategoryId(), "You might also like");
 
+
+require_once("includes/footer.php");
 ?>
