@@ -34,6 +34,7 @@ require_once("includes/classes/Account.php");
 <html>
     <head>
         <title>Welcome to Watchflix</title>
+        <link rel="icon" href="assets/images/favicon.ico">
         <link rel="stylesheet" type="text/css" href="assets/style/style.css" />
     </head>
     <body>
