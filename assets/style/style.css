@@ -234,6 +234,7 @@ button i {
     display: flex;
     flex-direction: column;
     width: 230px;
+    position: relative;
 }
 
 .episodeContainer img {
@@ -309,3 +310,10 @@ button i {
     z-index: 2;
 }
 
+.seen {
+    color: #2ecc71;
+    font-size: 26px;
+    position:absolute;
+    top: 5px;
+    left: 5px;
+}
