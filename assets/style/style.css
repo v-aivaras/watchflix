@@ -365,3 +365,7 @@ button i {
     font-size: 20px;
     margin-left: 10px;
 }
+
+.previewCategories h1 {
+    color: #e5e5e5;
+}
