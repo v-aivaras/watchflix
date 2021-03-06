@@ -11,7 +11,7 @@ class SearchResultsProvider {
     public function getResults($inputText) {
         $entities = EntityProvider::getSearchEntities($this->con, $inputText);
 
-        $html = "<div class='previewCategories noScroll>";
+        $html = "<div class='previewCategories noScroll'>";
         $html .= $this->getResultHtml($entities);
         return $html . "</div>";
     }
