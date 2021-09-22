@@ -1,5 +1,13 @@
 # watchflix
-Learning object oriented programming PHP + MySQL with some Ajax, JavaScript, jQuerry and CSS.
+#### Netflix Clone
+
+Created while Learning object oriented programming PHP + MySQL with some Ajax, JavaScript, jQuerry and CSS.
+
+#### Main features:
+- Video player
+- Search for movies and TV shows
+- Resume watching where you left off
+- Next episode suggestion
 
 Index page of Watchflix:
 
@@ -25,5 +33,7 @@ Registration page:
 
 ![watchflix](readme-screenshots/watchflix-register.jpg)
 
-Images used for learning purposes only.
-No actual movie or tv show video has been used.
+
+Based on lessons from [Reece Kenney](https://www.udemy.com/user/reecekenney).
+
+Project uses public domain videos and images (copyright free).
